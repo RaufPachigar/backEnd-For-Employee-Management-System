@@ -1,0 +1,6 @@
+@WebApiSFL_HostAddress = http://localhost:5143
+
+GET {{WebApiSFL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
